@@ -10,12 +10,12 @@
             <sparkle:releaseNotesLink>
             https://deadpikle.github.io/NetSparkle/files/sample-app/2.0-release-notes.md
             </sparkle:releaseNotesLink>
-            <pubDate>Thu, 8 Nov 2018 10:30:00 +0000</pubDate>
+            <pubDate>Thu, 27 Oct 2016 10:30:00 +0000</pubDate>
             <enclosure url="https://deadpikle.github.io/NetSparkle/files/sample-app/NetSparkleUpdate.exe"
                        sparkle:version="2.0"
                        length="12288"
                        type="application/octet-stream"
-                       sparkle:dsaSignature="GhF/eKA04+LMr/6GSsBKylKlZaFaBxMWZNwqZi8uU7lN9vfEacNsUg==" />
+                       sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ==" />
         </item>
     </channel>
 </rss>
